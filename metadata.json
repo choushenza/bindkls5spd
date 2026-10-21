@@ -1,0 +1,6 @@
+{
+  "name": "Eksplorasi Hobi Cilik - Game Bahasa Indonesia Kelas 5 SD",
+  "description": "Aplikasi game edukasi interaktif Bahasa Indonesia Kelas 5 SD Bab 3: Ekspresi Diri Melalui Hobi. Memuat 60 soal dalam 3 modul (Detektif Hobi, Awalan me-, Susun Cerita), Kamus & Laboratorium Imbuhan, sistem 3 nyawa, audio Web Audio, dan sertifikat prestasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
